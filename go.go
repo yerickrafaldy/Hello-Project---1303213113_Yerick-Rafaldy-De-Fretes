@@ -7,3 +7,5 @@ fmt.Scan(&n)
 for i=1 ; i <n ; i=i+1 { // kondisi masuk looping
 }
 	fmt.print(i)
+
+//komentar dari step 6
